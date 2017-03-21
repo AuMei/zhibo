@@ -3820,9 +3820,10 @@
   word-wrap:break-word;
 }
 #u298 {
-  position:absolute;
+  position:fixed;
   left:100px;
   top:0px;
+  visibility:hidden;
 }
 #u298_state0 {
   position:relative;
